@@ -34,17 +34,17 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Setting up the setup screen to change difficulty levels and category of quiz questions was a challenge. I eventually figured that the set up screens needs to be embedded in the navigation control for everything to work seamlessly.
+- Before the embedding, the program never entered the game and froze after hitting the start button
+- I still struffle with connecting outlets and actions with the UI elements. Sometimes, I need to re-code the outlets and actions by creating newwer versions of them.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Sneha Siri Nagabathula]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
