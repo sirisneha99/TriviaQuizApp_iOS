@@ -39,9 +39,17 @@ https://www.loom.com/share/683a00c55f2041f9b35ca007b3dffabf?sid=7d053a16-ed3a-4e
 
 ## Notes
 
+Challenges 
 - Setting up the setup screen to change difficulty levels and category of quiz questions was a challenge. I eventually figured that the set up screens needs to be embedded in the navigation control for everything to work seamlessly.
 - Before the embedding, the program never entered the game and froze after hitting the start button
 - I still struffle with connecting outlets and actions with the UI elements. Sometimes, I need to re-code the outlets and actions by creating newwer versions of them.
+
+Future improvements :
+- Make the question feedback appear at the bottom of the screen instead of a window
+- Automatically transition to the next question within 5 seconds of displaying the feedback after the user answers a question
+- Provide instructions before the game begins
+- At the end of the game, display the score and rank of the user for a chosen category and difficulty level
+- Store the user's highest score for each category and difficulty level ; update the Database after each game
 
 ## License
 
