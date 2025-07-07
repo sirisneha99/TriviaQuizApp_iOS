@@ -50,6 +50,8 @@ Future improvements :
 - Provide instructions before the game begins
 - At the end of the game, display the score and rank of the user for a chosen category and difficulty level
 - Store the user's highest score for each category and difficulty level ; update the Database after each game
+- play background music for each category selected
+- Design different theme for each difficulty level 
 
 ## License
 
