@@ -8,7 +8,7 @@ Trivia is an app that :
 - provides feedback after each question
 - sums up the total score for the round and provides an option to restart the game with new setup - new category and difficulty level
 
-Time spent: 6 hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
