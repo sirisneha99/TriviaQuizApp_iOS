@@ -1,6 +1,5 @@
-# Project 4 - Trivia Quiz app
+# Trivia Quiz app
 
-Submitted by: Sneha Siri Nagabathula
 
 Trivia is an app that :
 - allows users to quiz themselves on any of the availabe categories at a chosen level of difficulty
@@ -10,25 +9,15 @@ Trivia is an app that :
 
 Time spent: 7 hours spent in total
 
-## Required Features
-
-The following **required** functionality is completed:
+The following functionality is available in this app:
 
 - [x] User can view and answer at least 5 trivia questions.
 - [x] App retrieves question data from the Open Trivia Database API.
 - [x] Fetch a different set of questions if the user indicates they would like to reset the game.
 - [x] Users can see score after submitting all questions.
-- [x] True or False questions only have two options.
-
-
-The following **optional** features are implemented:
-
-  
+- [x] True or False questions only have two options.  
 - [x] Allow the user to choose a specific category of questions.
 - [x] Provide the user feedback on whether each question was correct before navigating to the next.
-
-The following **additional** features are implemented:
-
 - [x] Has a launchscreen
 - [x] Has an app icon
 
