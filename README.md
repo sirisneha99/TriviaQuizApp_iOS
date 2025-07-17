@@ -25,6 +25,16 @@ The following functionality is available in this app:
 
 https://www.loom.com/share/683a00c55f2041f9b35ca007b3dffabf?sid=7d053a16-ed3a-4ee8-8f5f-02a83ef9ea92
 
+![Project Thumbnail](./Thumbnail.png)
+
+## App Screenshots
+
+<div align="center">
+  <img src="./sim_0.png" alt="Home" width="180">
+  <img src="./sim_1.png" alt="Profile" width="180">
+  <img src="./sim_2.png" alt="Settings" width="180">
+</div>
+
 
 ## Notes
 
